@@ -1,0 +1,30 @@
+
+body{
+
+/*
+Esto es un comentario que nos ayuda a saber de qué se trata algo en el código
+*/
+
+
+/* Aquí dentro de las llaves del body debería de estar las opciones de estilo 
+para el body por ejemplo el color o imagen de fondo por ejemplo 
+con la opción background-color: color; 
+*/
+
+
+
+}
+
+#divUno{
+    width: 800px;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+#headerUno{
+
+    background-color: aqua;
+    color: tomato;
+    text-align: center;
+
+}
